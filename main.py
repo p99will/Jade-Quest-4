@@ -7,7 +7,7 @@ from pygame.locals import *
 
 # Globals
 FPS = 60
-WINDOW_TITLE = "Jade Quest 4.0.0 In-Dev"
+WINDOW_TITLE = "Jade Quest 4 In-Dev"
 DEBUG = True
 
 display = None
